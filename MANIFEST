@@ -1,3 +1,4 @@
+Changes
 LICENSE
 MANIFEST
 META.yml
@@ -8,3 +9,4 @@ dist.ini
 lib/Proc/Supervised/Convenience.pm
 t/release-pod-coverage.t
 t/release-pod-syntax.t
+t/use.t

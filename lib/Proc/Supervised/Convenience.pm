@@ -1,6 +1,6 @@
 package Proc::Supervised::Convenience;
 BEGIN {
-  $Proc::Supervised::Convenience::VERSION = '1.00';
+  $Proc::Supervised::Convenience::VERSION = '1.01';
 }
 
 =head1 NAME
@@ -9,7 +9,7 @@ Proc::Supervised::Convenience - Supervise concurrent worker processes
 
 =head1 VERSION
 
-version 1.00
+version 1.01
 
 =cut
 
